@@ -19,7 +19,7 @@
 ```bash
 git clone https://github.com/ваш-логин/название-репозитория.git
 ```
-2. Запуск
+2. Запуск:
 ```bash
 npm run storybook   # Запуск Storybook
 npm run stylelint  # Проверка стилей
